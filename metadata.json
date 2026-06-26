@@ -1,0 +1,6 @@
+{
+  "name": "Salimv's",
+  "description": "Hashamatli kiyimlar do'koni. High-end luxury fashion boutique with elegant modern catalog and shopping experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
